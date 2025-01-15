@@ -13,8 +13,8 @@ This project deals with webscraping of bibtex of 10 different authors, including
 - 
 
 ## legal words 
-- crawling from this website is allowed 
-- tough caution because too many requests can hinder you endeavor
+- crawling from this website is allowed
+- tough caution because too many requests can hinder you endeavor -> this is the reason for letting the crawler appear as human
 https://dblp.org/faq/1474706.html
 
 
